@@ -24,13 +24,13 @@ const state = {
 			'4+64GB': '￥1699'
 		},
 		colors:{
-			'黑色': 'http://www3.res.meizu.com/static/cn/note6/spec/images/phone-black_6d5f93f.png',
-			'蓝色': 'http://www3.res.meizu.com/static/cn/note6/spec/images/phone-blue_b289b89.png',
-			'银色': 'http://www3.res.meizu.com/static/cn/note6/spec/images/phone-silver_1931a66.png',
-			'金色': 'http://www3.res.meizu.com/static/cn/note6/spec/images/phone-gold_ef7149f.png'
+			'黑色': 'https://github.com/euhiduwu/Vue.js/blob/master/Shopping%20Cart/src/images/black.png',
+			'蓝色': 'https://github.com/euhiduwu/Vue.js/blob/master/Shopping%20Cart/src/images/blue.png',
+			'银色': 'https://github.com/euhiduwu/Vue.js/blob/master/Shopping%20Cart/src/images/silver.png',
+			'金色': 'https://github.com/euhiduwu/Vue.js/blob/master/Shopping%20Cart/src/images/gold.png'
 		},
 		activeColor: '黑色',
-		activeImageUrl: 'http://www3.res.meizu.com/static/cn/note6/spec/images/phone-black_6d5f93f.png',
+		activeImageUrl: 'https://github.com/euhiduwu/Vue.js/blob/master/Shopping%20Cart/src/images/black.png',
 		activeStorge: '',
 		price: '￥1099 - 1699',
 		isSelected: true
