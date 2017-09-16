@@ -1,3 +1,4 @@
+
 # (vue-demo)
 
 > (A Vue.js project)
@@ -28,3 +29,8 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+一个购物车小项目
+图示：
+![Image text](https://raw.githubusercontent.com/euhiduwu/Vue.js/master/Shopping%20Cart/src/images/1.png)
+![Image text](https://raw.githubusercontent.com/euhiduwu/Vue.js/master/Shopping%20Cart/src/images/2.png)
