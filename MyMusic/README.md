@@ -1,12 +1,9 @@
 # MyMusic
 一个网易云音乐小项目，实现歌曲播放等基本功能
 > A Vue.js project
-![Image Text]
-(https://github.com/euhiduwu/Vue.js/blob/master/MyMusic/demo/1.png);
-![Image Text]
-(https://raw.githubusercontent.com/euhiduwu/Vue.js/master/MyMusic/demo/2.png);
-![Image Text]
-(https://raw.githubusercontent.com/euhiduwu/Vue.js/master/MyMusic/demo/3.png);
+![Image Text](https://github.com/euhiduwu/Vue.js/blob/master/MyMusic/demo/1.png);
+![Image Text](https://raw.githubusercontent.com/euhiduwu/Vue.js/master/MyMusic/demo/2.png);
+![Image Text](https://raw.githubusercontent.com/euhiduwu/Vue.js/master/MyMusic/demo/3.png);
 ## Build Setup
 
 ``` bash
